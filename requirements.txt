@@ -1,0 +1,6 @@
+streamlit>=1.40
+google-genai
+python-dotenv
+requests>=2.32
+pypdf>=5.0
+python-docx>=1.1

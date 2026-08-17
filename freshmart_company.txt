@@ -1,0 +1,19 @@
+FreshMart Retail Pvt Ltd
+
+FreshMart is a retail organisation operating physical stores and an e-commerce website.
+
+Current challenges:
+Physical store sales are declining.
+Inventory costs are increasing.
+Customers increasingly prefer digital shopping.
+
+Business objectives:
+Increase revenue.
+Reduce inventory costs.
+Improve customer experience.
+
+Current technology:
+POS sales data.
+Inventory management system.
+Customer loyalty data.
+E-commerce website.
